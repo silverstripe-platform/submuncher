@@ -1,5 +1,5 @@
 {
-  "name": "silverstripeltd/submuncher",
+  "name": "silverstripe-platform/submuncher",
   "description": "Tool for consolidating subnets",
   "require": {
     "php": ">=5.6",
